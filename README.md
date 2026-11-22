@@ -4,6 +4,10 @@ Class 11 student in Bhopal, India, building Python tools and web prototypes thro
 
 I am seeking a **paid remote development internship**, available **15 hours/week for 4-5 weeks**, with an immediate start. My priorities are Python, Android development, and prompt engineering or AI application prototyping. Expected school graduation: 2028.
 
+## Featured project
+
+**[FarmNet](https://github.com/XLR8-FORCE/farmnet)** is an ESP32 environmental monitoring prototype built for a student competition. It brings soil, temperature, humidity, rain-plate wetness, and light readings into an OLED display and a local browser dashboard. The Python recorder saves timestamped readings and settings in SQLite, with charts and CSV export.
+
 ## Projects
 
 | Project | Work demonstrated | Status |
@@ -16,7 +20,7 @@ I am seeking a **paid remote development internship**, available **15 hours/week
 
 ## Tools I have used in projects
 
-Python, Requests, REST APIs, SQLite, JSON, NumPy, Pygame and Git, with prototype exposure to FastAPI, Jinja2, JavaScript and browser audio/pose tools.
+ESP32, Arduino C++, Python, Requests, REST APIs, SQLite, JSON, NumPy, Pygame and Git, with prototype exposure to FastAPI, Jinja2, JavaScript and browser audio/pose tools.
 
 These projects were developed with AI assistance. Repository READMEs distinguish implemented features from planned work and describe current limitations.
 
